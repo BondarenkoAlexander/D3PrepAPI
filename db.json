@@ -1,5 +1,4 @@
-{
-  "items": [
+[
    {
       "id": 1,
       "isFavorite": false,
@@ -30,5 +29,4 @@
       "title": "5",
       "description": "5"
   }
-  ]
-}
+]
